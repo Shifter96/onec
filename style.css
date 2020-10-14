@@ -1,0 +1,131 @@
+body{
+    font-family: 'Roboto' ;
+}
+img {
+    height: 100%;
+    width: 100%;
+}
+.image {
+    height: 400px;
+    width: 400px;
+}
+.apropos{
+    margin-top:8rem;
+}
+
+.ligne{
+    height:4px;
+    width: 40px;
+    border: none;
+    background-color: #4CAF50;
+    
+    margin:0px;
+    margin-bottom: 55px;
+    margin-top:20px;
+}
+.h1{
+    margin:0;
+}
+.nos-taches{
+    margin-top:70px;
+}
+.ligne2{
+    height:4px;
+    width: 90px;
+    border: none;
+    background-color: #4CAF50;
+
+    margin-bottom: 55px;
+    margin-top:20px;
+}
+.material-icons{
+    display: block;
+    margin-bottom:20px ;
+}
+.brand-logo{
+    width:65px;
+    height:65px;
+}
+.collapsible{
+    width:800px;
+    
+    
+}
+.sidenav{
+    color: #4CAF50;
+}
+.sidenav-trigger{
+    position: fixed;
+    top: 50%;
+    left:1%;
+}
+#test1 h4{
+    margin-top: 4rem;
+}
+.right-icon{
+    border-radius: 50%;
+    background-color: #4CAF50;
+    color: white;
+
+}
+.tabss{
+    margin-top: 10rem;
+    border: .5px solid #4CAF50;
+    border-radius: 8px;
+    padding-top: 1rem ;
+    padding-bottom: 1rem;
+    margin-bottom: 10rem;
+}
+.tabs-title{
+    color: #4CAF50 !important;
+
+}
+a.tabs-title.active{
+    background-color: #e8f5e9 !important;
+    border-bottom: 2px solid #4CAF50  !important;
+}
+
+
+.input.select-dropdown.dropdown-trigger {
+    position: left !important;
+  }
+  .bttn {
+    
+    left: 40%;
+}
+.navbar-fixed{
+    position: fixed; 
+    top: 0;
+}
+.b{
+    display: none;
+
+}
+.form2{
+    margin-top: 6rem;
+
+}
+.exam{
+    margin-top: 6rem;
+}
+.exam1{
+    margin-top: 6rem;
+}
+.btn{
+    margin-top: 6rem;
+} 
+.r {
+    margin-top: 8rem;
+}
+.bttn{
+    margin-bottom: 6rem;
+} 
+.modal {
+    
+        color:black;
+        background-color:white;
+        background-image:url(lolo.jpg);
+        background-repeat:no-repeat;
+        background-position:center center;
+        
+}
