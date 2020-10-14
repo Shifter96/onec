@@ -1,0 +1,41 @@
+
+.card-panel{
+
+    max-width: 800px;
+    margin: 8rem auto;
+}
+.card-panel h2{
+    justify-content: center;
+    justify-items: center;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 3rem;
+    font-weight: 500;
+    margin-top: 0;
+}
+.card-panel hr{
+    opacity: 0.4;
+}
+.card-panel .situation{
+    font-weight: 500;
+    font-size: 2.5rem;
+
+}
+.card-panel .message{
+    font-style: italic;
+    font-weight: 300;
+    font-size: 2.5rem;
+}
+.card-panel .label{
+    display: inline-block;
+    font-size: 1rem;
+}
+.card-panel .content{
+    margin: 0;
+    display: inline-block;
+    font-size: 1rem;
+    font-weight: 600;
+}
+body{
+    background-image: url('./fireworks.png');
+}
